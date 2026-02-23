@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T17:07:24.238978Z",
+  "generated_at": "2026-02-23T18:36:03.760609Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-02-23",
-  "count_today": 7,
+  "count_today": 8,
   "updates_today": [
     {
       "date": "2026-02-23",
@@ -39,11 +39,16 @@
     },
     {
       "date": "2026-02-23",
+      "title": "AetherViz Master 依托 Gemini 3.1 把零代码 3D 互动教学变成现实。只需输入知识点，几秒就能自动生成可交互网页，覆盖多学科并智能切换 2D/3D 渲染，集成公式、测验、参数调节等完整教学能力。它让抽象知识变成立体可操作的体验，真正把学习从被动接收变成主动探索，为教育工具带来体验级革新！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-23",
       "title": "AI Agent正在重构SaaS行业，2026年初软件板块蒸发2万亿市值，传统SaaS的界面、工作流等护城河被系统性瓦解，按座位收费模式彻底失效。这篇文章拆解了旧壁垒崩塌的核心原因，明晰新护城河的四大核心维度，带你揭秘SaaS分裂为AI-Infra、垂直AI、Agent SaaS三大新物种的行业趋势，更给出投资者、企业、创业者的专属战略行动指南。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-02-23",
@@ -73,6 +78,11 @@
     {
       "date": "2026-02-23",
       "title": "OpenAI Codex负责人的深度访谈，带你拆解AI编码与Agent时代的核心趋势。Codex半年实现20倍增长，OpenAI内部已实现AI主导代码编写，工程师工作模式彻底转向“委托式”协作。综合来看，AGI发展的核心瓶颈在人机交互而非模型，通用Agent或将主导市场。此外，AI时代的主动性、品味与质量才是稀缺能力！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "AetherViz Master 依托 Gemini 3.1 把零代码 3D 互动教学变成现实。只需输入知识点，几秒就能自动生成可交互网页，覆盖多学科并智能切换 2D/3D 渲染，集成公式、测验、参数调节等完整教学能力。它让抽象知识变成立体可操作的体验，真正把学习从被动接收变成主动探索，为教育工具带来体验级革新！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
